@@ -6,3 +6,4 @@ pymongo
 nbconvert
 numpy
 sklearn.linear_model
+sklearn.metrics
